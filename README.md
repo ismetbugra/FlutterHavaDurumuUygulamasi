@@ -1,7 +1,7 @@
-📱 Hava Durumu Uygulaması
+## 📱 Hava Durumu Uygulaması
 Bu uygulama, OpenWeather API'yi kullanarak hava durumu verilerini alır ve kullanıcıya sunar. Uygulama, Dio kütüphanesi ile API çağrıları yapar ve named routes kullanarak ekranlar arasında geçiş yapar. Ayrıca, bir search bar ile kullanıcılar şehirlerini arayarak hava durumu bilgilerini görüntüleyebilirler.
 
-💡 Özellikler
+## 💡 Özellikler
 OpenWeather API'yi kullanarak hava durumu verilerini alır.
 
 Dio kütüphanesi ile API çağrıları yapar.
@@ -12,7 +12,7 @@ TextField widget'ı ile şehir arama işlemi.
 
 Kullanıcı dostu bir arayüz.
 
-⚙️ Teknolojiler
+## ⚙️ Teknolojiler
 Flutter: Mobil uygulama geliştirme framework'ü.
 
 Dio: HTTP istekleri için kütüphane.
