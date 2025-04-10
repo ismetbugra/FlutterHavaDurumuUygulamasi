@@ -23,7 +23,7 @@ Named Routes: Sayfalar arasında geçiş yapma.
 
 TextField: Kullanıcıdan şehir adı almak için.
 
-🖼️ Ekran Görüntüleri
+
 ## 🖼️ Ekran Görüntüleri
 
 ### Ana Sayfa ve Detay Sayfası
