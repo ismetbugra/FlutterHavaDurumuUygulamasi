@@ -34,6 +34,6 @@ TextField: Kullanıcıdan şehir adı almak için.
 
 ### Detay Sayfası
 
-| Detay Sayfası |
+| Detay Sayfa 1 | Detay Sayfa 2 |
 |-------------|-------------|
 | ![Detay Sayfası](appscreenshots/havadurumu3.png) | ![Detay Sayfası](appscreenshots/havadurumu4.png) |
